@@ -71,7 +71,7 @@ php artisan migrate:fresh --seed
 ```bash
 php artisan serve
 ```
-##### Ya con esto nuestro proyecto corriendo en el puerto 8000,   http://127.0.0.1:8000
+##### Ya con esto nuestro proyecto se estara ejecutando en el puerto 8000,   http://127.0.0.1:8000
 
 ## Test 
 
